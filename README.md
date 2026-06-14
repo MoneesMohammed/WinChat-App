@@ -22,7 +22,7 @@ WinChat is a simple chat application built with **C# WinForms** that simulates c
 
 ## 📷 Preview
 
-![alt text for the image](Screenshots/screenshots.png)
+![alt text for the image](Screenshots/screenshot.png)
 
 ## 🚀 How It Works
 
